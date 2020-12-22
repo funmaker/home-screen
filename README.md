@@ -3,7 +3,7 @@
 My KLWP home screen.
 
 [Showcase 1](showcase.webm?raw=1)  
-[Showcase 2](parallax.webm?raw=1)
+[Showcase 2](parallax.webm?raw=1) (using gyroscope)
 
 Requires Tasker to scrap PowerAMP info about current song, progress, etc. ([config](tasker.xml))
 
