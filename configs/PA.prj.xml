@@ -1,0 +1,84 @@
+<TaskerData sr="" dvi="1" tv="6.7.9">
+	<Project sr="proj0" ve="2">
+		<cdate>1459678895596</cdate>
+		<id>5adf014d-f5fb-415e-b088-e4568e3dda93</id>
+		<name>PA</name>
+		<tids>13,15,18</tids>
+		<Img sr="icon" ve="2">
+			<cls>com.maxmpz.audioplayer.StartupActivity</cls>
+			<pkg>com.maxmpz.audioplayer</pkg>
+		</Img>
+	</Project>
+	<Task sr="task13">
+		<cdate>1459674372892</cdate>
+		<edate>1794670042437</edate>
+		<id>13</id>
+		<nme>PAPAUSERESUME</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>877</code>
+			<Str sr="arg0" ve="3">com.maxmpz.audioplayer.API_COMMAND</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3">cmd:1</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="2"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.maxmpz.audioplayer.StartupActivity</cls>
+			<pkg>com.maxmpz.audioplayer</pkg>
+		</Img>
+	</Task>
+	<Task sr="task15">
+		<cdate>1459674372892</cdate>
+		<edate>1784562216742</edate>
+		<id>15</id>
+		<nme>PANEXT</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>877</code>
+			<Str sr="arg0" ve="3">com.maxmpz.audioplayer.API_COMMAND</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3">cmd:4</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="2"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.maxmpz.audioplayer.StartupActivity</cls>
+			<pkg>com.maxmpz.audioplayer</pkg>
+		</Img>
+	</Task>
+	<Task sr="task18">
+		<cdate>1459674372892</cdate>
+		<edate>1784559753992</edate>
+		<id>18</id>
+		<nme>PAPREV</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>877</code>
+			<Str sr="arg0" ve="3">com.maxmpz.audioplayer.API_COMMAND</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3">cmd:5</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="2"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.maxmpz.audioplayer.StartupActivity</cls>
+			<pkg>com.maxmpz.audioplayer</pkg>
+		</Img>
+	</Task>
+</TaskerData>
