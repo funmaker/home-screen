@@ -13,4 +13,3 @@ in global variables to your instance's URL. It could probably be tweaked to work
 ## Acknowledgments
 
 Art used: ミクさん made by 香月. ([link](https://www.pixiv.net/en/artworks/55923548))  
-I don't remember where did I got icons from, sorry. 🙇
